@@ -209,9 +209,9 @@ Il progetto include un file `index.html` che serve come **demo statica** dell'in
 - 🐙 GitHub: [https://github.com/Dreessy](https://github.com/Dreessy)
 - 💼 LinkedIn: [https://www.linkedin.com/in/ciro-casoria-01b93b201](https://www.linkedin.com/in/ciro-casoria-01b93b201)
 
-## 📝 Licenza
+## 📄 Licenza
 
-Questo progetto è rilasciato sotto licenza MIT. Sentiti libero di utilizzarlo e modificarlo secondo le tue esigenze.
+Questo progetto è stato creato per **opportunità lavorative** e come dimostrazione delle competenze di sviluppo web. È disponibile per la valutazione da parte di potenziali datori di lavoro e collaboratori.
 
 ## 🤝 Contributi
 
