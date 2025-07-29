@@ -199,6 +199,13 @@ Il progetto include un file `index.html` che serve come **demo statica** dell'in
 
 ⚠️ **IMPORTANTE**: Eliminare il file `index.html` quando si mette l'applicazione in produzione, poiché è solo un file dimostrativo.
 
+## 👨‍💻 Autore
+
+**Ciro Casoria**
+- 📧 Email: [ciro062012@icloud.com](mailto:ciro062012@icloud.com)
+- 🐙 GitHub: [https://github.com/Dreessy](https://github.com/Dreessy)
+- 💼 LinkedIn: [https://www.linkedin.com/in/ciro-casoria-01b93b201](https://www.linkedin.com/in/ciro-casoria-01b93b201)
+
 ## 📝 Licenza
 
 Questo progetto è rilasciato sotto licenza MIT. Sentiti libero di utilizzarlo e modificarlo secondo le tue esigenze.
