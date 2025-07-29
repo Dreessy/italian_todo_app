@@ -4,6 +4,9 @@
 
 Un'applicazione web moderna e responsive per la gestione delle attività quotidiane con funzionalità CRUD complete, interfaccia intuitiva e aggiornamenti in tempo reale senza ricaricamento della pagina.
 
+## Importante!
+- Questo progetto é stato creato come dimostrazione a future aziende con possibilitá di assunzione lavorativa per me medesimo come dimostrazione delle proprie capacitá,chi visualizzerá e scaricherá il contenuto di questo progetto,avrá accesso tramite licenza MIT
+
 ## ✨ Caratteristiche Principali
 
 - **CRUD Completo**: Crea, leggi, aggiorna ed elimina task
